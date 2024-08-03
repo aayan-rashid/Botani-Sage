@@ -1,1 +1,3 @@
 # Botani-Sage
+
+The importance of plant life and botanical knowledge in today's society goes well beyond aesthetic enjoyment. As interest in sustainable living and alternative cures rises, there is an urgent need for accessible and credible plant categorization information, particularly on medicinal plants. "BotaniSage: Your Botanical Guru" is a project that aims to meet this demand by creating a Medicinal Plants Classification Model. This unique initiative combines the power of machine learning, botanical expertise, and user-friendly technology to provide users with the knowledge they need to utilize the advantages of medicinal plants, safely and sustainably. This platform will allow users to precisely categorize and comprehend the therapeutic characteristics of plants.
